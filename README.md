@@ -8,6 +8,7 @@
 
 ![Mariana Freitas GitHub stats](https://github-readme-stats.vercel.app/api?username=MarianaFreitas02&show_icons=true&theme=dracula)
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MarianaFreitas02&hide_progress=true)
 
 ## Tecnologias que eu uso no meu dia
 
