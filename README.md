@@ -1,7 +1,7 @@
 <div align="center">
   
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=600&size=35&pause=1000&color=A855F7&center=true&vCenter=true&width=500&lines=Ol%C3%A1!+Eu+sou+a+Mariana+Freitas;Dev+Full+Stack+%26+CyberSec;Construindo+o+Futuro+Seguro" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=600&size=30&pause=1000&color=A855F7&center=true&vCenter=true&width=750&lines=Ol%C3%A1!+Eu+sou+a+Mariana+Freitas;Dev+Full+Stack+%26+CyberSec;Construindo+o+Futuro+Seguro" alt="Typing SVG" />
   </a>
 
   <p>
@@ -11,7 +11,8 @@
   <a href="https://www.instagram.com/m1_vulgomari/">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
   </a>
-  </div>
+  
+</div>
 
 <br/>
 
