@@ -46,8 +46,8 @@ root@mariana-freitas:~$ cat about_me.txt
   <br />
 
   ### 🔐 Access Project: Secure Vault
-  <a href="https://github.com/MarianaFreitas02/secure-vault-zero-knowledge">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=MarianaFreitas02&repo=secure-vault-zero-knowledge&theme=tokyonight&hide_border=true" />
+  <a href="https://github.com/MarianaFreitas02/tcc-vault">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=MarianaFreitas02&repo=tcc-vault&theme=tokyonight&hide_border=true" />
   </a>
 
   <br /><br />
