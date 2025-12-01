@@ -1,7 +1,7 @@
 # Olá, eu sou a Mariana Freitas! 👋
 ### Engenharia de Computação | Data Analytics & Software Engineering
 
-Estudante do 10º período de Engenharia de Computação e estagiária em Analytics. Sou apaixonada por encontrar a interseção entre **Segurança da Informação**, **Desenvolvimento Full Stack** e **Ciência de Dados**.
+Estudante do 6º período de Engenharia de Computação e estagiária em Dev. Sou apaixonada por encontrar a interseção entre **Segurança da Informação**, **Desenvolvimento Full Stack** e **Ciência de Dados**.
 
 Atualmente, estou focada no desenvolvimento de arquiteturas **Zero-Knowledge** para proteção de dados na web.
 
